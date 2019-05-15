@@ -9,6 +9,31 @@ breadcrumb: 2-Intelligent-Agent
 
 # 2. Intelligent Agents
 
+<div class="card">
+    <div class="card-header p-2">
+        <a href='ex_1/' class="p-2">Exercise 1</a>
+        <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.1');" href="#"><i id="ex2.1" class="fas fa-bookmark" style="color:white"></i></button>
+        <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.1');" href="#"><i id="ex2.1" class="fas fa-thumbs-up" style="color:white"></i></button>
+    </div>
+    <div class="card-body">
+        <p class="card-text">{% include_relative exercises/ex_1/question.md %}</p>
+    </div>
+</div>
+
+<br>
+
+<div class="card">
+    <div class="card-header p-2">
+        <a href='ex_2/' class="p-2">Exercise 2</a>
+        <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.2');" href="#"><i id="ex2.2" class="fas fa-bookmark" style="color:white"></i></button>
+        <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.2');" href="#"><i id="ex2.2" class="fas fa-thumbs-up" style="color:white"></i></button>
+    </div>
+    <div class="card-body">
+        <p class="card-text">{% include_relative exercises/ex_2/question.md %}</p>
+    </div>
+</div>
+
+<br>
 <div><i class="arrow-up loader" data-chapter="agents-exercises" data-exercise="ex_1" data-rating="0"></i></div>
 {% include_relative exercises/ex_1/question.md %}
 

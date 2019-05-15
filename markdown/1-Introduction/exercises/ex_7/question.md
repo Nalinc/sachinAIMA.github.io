@@ -1,4 +1,4 @@
-[Exercise 1.7](ex_7/)
+
 
 The neural structure of the sea slug *Aplysia* has been
 widely studied (first by Nobel Laureate Eric Kandel) because it has only
