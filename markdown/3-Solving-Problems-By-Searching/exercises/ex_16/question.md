@@ -1,4 +1,4 @@
-[Exercise 3.16 \[graph-separation-property-exercise\]](ex_16/)
+
 
 Prove that satisfies the graph
 separation property illustrated in . (*Hint*: Begin by

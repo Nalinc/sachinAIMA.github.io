@@ -1,4 +1,4 @@
-[Exercise 3.31](ex_31/)
+
 
 The **heuristic path algorithm** @Pohl:1977 is a best-first search in which the evaluation function
 is $f(n) =

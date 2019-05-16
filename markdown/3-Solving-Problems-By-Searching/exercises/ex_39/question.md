@@ -1,6 +1,6 @@
-[Exercise 3.39 \[Gaschnig-h-exercise\]](ex_39/)
 
-On page [Gaschnig-h-page](#/) , we defined the relaxation of the 8-puzzle in
+
+On page <a href="#">Gaschnig-h-page</a> , we defined the relaxation of the 8-puzzle in
 which a tile can move from square A to square B if B is blank. The exact
 solution of this problem defines **Gaschnig's heuristic** @Gaschnig:1979. Explain why Gaschnig’s
 heuristic is at least as accurate as $h_1$ (misplaced tiles), and show

@@ -62,7 +62,7 @@ permalink: /search-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_5/' class="p-2">Exercise 5</a>
+        <a href='ex_5/' class="p-2">Exercise 5 (two-friends-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.5');" href="#"><i id="ex3.5" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.5');" href="#"><i id="ex3.5" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -75,7 +75,7 @@ permalink: /search-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_6/' class="p-2">Exercise 6</a>
+        <a href='ex_6/' class="p-2">Exercise 6 (8puzzle-parity-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.6');" href="#"><i id="ex3.6" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.6');" href="#"><i id="ex3.6" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -88,7 +88,7 @@ permalink: /search-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_7/' class="p-2">Exercise 7</a>
+        <a href='ex_7/' class="p-2">Exercise 7 (nqueens-size-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.7');" href="#"><i id="ex3.7" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.7');" href="#"><i id="ex3.7" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -114,7 +114,7 @@ permalink: /search-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_9/' class="p-2">Exercise 9</a>
+        <a href='ex_9/' class="p-2">Exercise 9 (path-planning-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.1');" href="#"><i id="ex3.9" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.9');" href="#"><i id="ex3.9" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -127,7 +127,7 @@ permalink: /search-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_10/' class="p-2">Exercise 10</a>
+        <a href='ex_10/' class="p-2">Exercise 10 (negative-g-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.10');" href="#"><i id="ex3.10" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.10');" href="#"><i id="ex3.10" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -140,7 +140,7 @@ permalink: /search-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_11/' class="p-2">Exercise 11</a>
+        <a href='ex_11/' class="p-2">Exercise 11 (mc-problem)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.11');" href="#"><i id="ex3.11" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.11');" href="#"><i id="ex3.11" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -201,7 +201,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_16/' class="p-2">Exercise 16</a>
+        <a href='ex_16/' class="p-2">Exercise 16 (graph-separation-property-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.16');" href="#"><i id="ex3.16" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.16');" href="#"><i id="ex3.16" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -237,7 +237,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_19/' class="p-2">Exercise 19</a>
+        <a href='ex_19/' class="p-2">Exercise 19 (brio-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.19');" href="#"><i id="ex3.19" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.19');" href="#"><i id="ex3.19" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -261,7 +261,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_21/' class="p-2">Exercise 21</a>
+        <a href='ex_21/' class="p-2">Exercise 21 (iterative-lengthening-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.21');" href="#"><i id="ex3.21" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.21');" href="#"><i id="ex3.21" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -297,7 +297,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_24/' class="p-2">Exercise 24</a>
+        <a href='ex_24/' class="p-2">Exercise 24 (vacuum-search-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.24');" href="#"><i id="ex3.24" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.24');" href="#"><i id="ex3.24" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -309,7 +309,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_25/' class="p-2">Exercise 25</a>
+        <a href='ex_25/' class="p-2">Exercise 25 (search-special-case-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.25');" href="#"><i id="ex3.25" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.25');" href="#"><i id="ex3.25" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -357,7 +357,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_29/' class="p-2">Exercise 29</a>
+        <a href='ex_29/' class="p-2">Exercise 29 (failure-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.29');" href="#"><i id="ex3.29" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.29');" href="#"><i id="ex3.29" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -477,7 +477,7 @@ permalink: /search-exercises/
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_39/' class="p-2">Exercise 39</a>
+        <a href='ex_39/' class="p-2">Exercise 39 (Gaschnig-h-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex3.39');" href="#"><i id="ex3.39" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex3.39');" href="#"><i id="ex3.39" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
