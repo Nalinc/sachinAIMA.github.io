@@ -120,12 +120,13 @@ breadcrumb: 2-Intelligent-Agent
 
 <br>
 ---
-The following exercises all concern the implementation of environments
+<div>The following exercises all concern the implementation of environments
 and agents for the vacuum-cleaner world.
+</div>
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_10/' class="p-2">Exercise 10</a>
+        <a href='ex_10/' class="p-2">Exercise 10 (vacuum-start-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.10');" href="#"><i id="ex2.10" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.10');" href="#"><i id="ex2.10" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -149,7 +150,7 @@ and agents for the vacuum-cleaner world.
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_12/' class="p-2">Exercise 12</a>
+        <a href='ex_12/' class="p-2">Exercise 12 (vacuum-motion-penalty-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.12');" href="#"><i id="ex2.12" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.12');" href="#"><i id="ex2.12" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -161,7 +162,7 @@ and agents for the vacuum-cleaner world.
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_13/' class="p-2">Exercise 13</a>
+        <a href='ex_13/' class="p-2">Exercise 13 (vacuum-unknown-geog-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.13');" href="#"><i id="ex2.13" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.13');" href="#"><i id="ex2.13" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -173,7 +174,7 @@ and agents for the vacuum-cleaner world.
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_14/' class="p-2">Exercise 14</a>
+        <a href='ex_14/' class="p-2">Exercise 14 (vacuum-bump-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.14');" href="#"><i id="ex2.14" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.14');" href="#"><i id="ex2.14" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -185,7 +186,7 @@ and agents for the vacuum-cleaner world.
 <br>
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_15/' class="p-2">Exercise 15</a>
+        <a href='ex_15/' class="p-2">Exercise 15 (vacuum-finish-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex2.15');" href="#"><i id="ex2.15" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex2.15');" href="#"><i id="ex2.15" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
