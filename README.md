@@ -1,5 +1,6 @@
 # AIMA Exercises
-Aima exercises is an interactive and collaborative platform for digitalising the exercises of the book Artificial Intelligence: a modern approach by Stuart J. Russell and Peter Norvig.  
+Aima exercises is an interactive and collaborative platform for digitalising the exercises of the book Artificial Intelligence: a modern approach by Stuart J. Russell and Peter Norvig.<br>
+Exercises for the book [*Artificial Intelligence: A Modern Approach.*](http://aima.cs.berkeley.edu/) The idea is that in the fourth edition of the book, exercises will be online only (they will not appear in the book). This site will showcase the exercises, and will be a platform for students and teachers to add new exercises.
 <br>
 The new version of AIMA Exercises has following new added feature:<br>
 1. New and attractive UI Design
