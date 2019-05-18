@@ -4,7 +4,7 @@ window.onload = function(){
     for (var i = 0, len = localStorage.length; i < len; ++i) {
         var key = localStorage.key(i);
         var value = localStorage.getItem(key);
-        bookmark(key)
+        bookmark(key);
         console.log(key);
     }
 };

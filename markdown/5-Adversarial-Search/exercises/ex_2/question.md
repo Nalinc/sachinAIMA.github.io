@@ -16,10 +16,13 @@ Consider the problem of solving two 8-puzzles.<br>
 
 4.  Does the game eventually end, given optimal play? Explain.<br>
 
-<center>
-<b id="pursuit-evasion-game-figure">Figure [pursuit-evasion-game-figure]</b> (a) A map where the cost of every edge is 1. Initially the pursuer $P$ is at
-node <b>b</b> and the evader $E$ is at node <b>d</b> (b) A partial game tree for this map.
-Each node is labeled with the $P,E$ positions. $P$ moves first. Branches marked "?" have yet to be explored.
-</center>
 
-![pursuit-evasion-game-figure](http://nalinc.github.io/aima-exercises/Jupyter%20notebook/figures/pursuit-evasion-game.svg)
+(a) A map where the cost of every edge is 1. Initially the pursuer $P$ is at
+node <b>b</b> and the evader $E$ is at node <b>d</b> <br>(b) A partial game tree for this map.
+Each node is labeled with the $P,E$ positions. $P$ moves first. Branches marked "?" have yet to be explored.
+
+
+<figure>
+  <img src="http://nalinc.github.io/aima-exercises/Jupyter%20notebook/figures/pursuit-evasion-game.svg" alt="pursuit-evasion-game-figure" id="pursuit-evasion-game-figure" style="width:100%">
+  <figcaption><center><b>Pursuit evasion game Figure</b></center></figcaption>
+</figure>

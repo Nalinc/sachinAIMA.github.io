@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Beyond Classical Search
 permalink: /advanced-search-exercises/
 ---
 

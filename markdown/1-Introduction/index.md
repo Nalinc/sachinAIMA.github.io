@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Introduction
 permalink: /intro-exercises/
 chapterLabel: 1-Introduction
 breadcrumb: Introduction

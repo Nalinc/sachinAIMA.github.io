@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Intelligent Agent
 permalink: /agents-exercises/
 breadcrumb: 2-Intelligent-Agent
 ---

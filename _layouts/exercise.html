@@ -7,24 +7,15 @@ comments: true
 
   <div class="entry">
     <div class="mode_btn view_question_source">
-      <a class="edit_question" href="#">Edit Question</a>
+      
     </div>
     {{ content }}
   </div>
 
-  <div class="answer_container">
-    <div>
-      <b>Answer</b>
-      <a class="edit_answer" href="#">Improve This Solution</a>
-    </div>
-    <div class="answer_content"></div>
-  </div>
 
-<div class="container exercise_mode">
-  <div class="mode_btn view_answer">View Answer</div> 
-  <div class="mode_btn request_answer"><a href="#">Request Answer</a></div>
-</div>
-  {% include disqus.html %}
+
+
+
 </article>
 
 <script type="text/javascript">
@@ -61,7 +52,7 @@ comments: true
         $(this).html("Hide Answer");
         $(".answer_container").show();
       }
-      
+
     })
     $(document).on('click',"i[data-chapter]",function(e){
       ele = $(e.target)

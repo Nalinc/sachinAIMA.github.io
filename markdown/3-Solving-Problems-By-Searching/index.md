@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Search Exercises
 permalink: /search-exercises/
 ---
 

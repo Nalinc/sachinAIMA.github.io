@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Adversarial Search
 permalink: /game-playing-exercises/
 ---
 
@@ -49,7 +49,7 @@ permalink: /game-playing-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_4/' class="p-2">Exercise 4</a>
+        <a href='ex_4/' class="p-2">Exercise 4 (game-playing-chance-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex5.4');" href="#"><i id="ex5.4" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex5.4');" href="#"><i id="ex5.4" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -88,7 +88,7 @@ permalink: /game-playing-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_7/' class="p-2">Exercise 7</a>
+        <a href='ex_7/' class="p-2">Exercise 7 (minimax-optimality-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex5.7');" href="#"><i id="ex5.7" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex5.7');" href="#"><i id="ex5.7" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -258,7 +258,7 @@ permalink: /game-playing-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_20/' class="p-2">Exercise 20</a>
+        <a href='ex_20/' class="p-2">Exercise 20 (game-linear-transform)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex5.20');" href="#"><i id="ex5.20" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex5.20');" href="#"><i id="ex5.20" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -271,7 +271,7 @@ permalink: /game-playing-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_21/' class="p-2">Exercise 21</a>
+        <a href='ex_21/' class="p-2">Exercise 21 (game-playing-monte-carlo-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex5.21');" href="#"><i id="ex5.21" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex5.21');" href="#"><i id="ex5.21" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
