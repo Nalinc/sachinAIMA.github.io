@@ -1,6 +1,6 @@
 ---
 layout: chapter
-title: Main
+title: Logical Agents
 permalink: /knowledge-logic-exercises/
 ---
 
@@ -75,7 +75,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_6/' class="p-2">Exercise 6 </a>
+        <a href='ex_6/' class="p-2">Exercise 6 (deduction-theorem-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.6');" href="#"><i id="ex7.6" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.6');" href="#"><i id="ex7.6" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -140,7 +140,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_11/' class="p-2">Exercise 11 </a>
+        <a href='ex_11/' class="p-2">Exercise 11 (logical-equivalence-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.11');" href="#"><i id="ex7.11" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.11');" href="#"><i id="ex7.11" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -153,7 +153,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_12/' class="p-2">Exercise 12 </a>
+        <a href='ex_12/' class="p-2">Exercise 12 (propositional-validity-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.12');" href="#"><i id="ex7.12" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.12');" href="#"><i id="ex7.12" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -166,7 +166,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_13/' class="p-2">Exercise 13 </a>
+        <a href='ex_13/' class="p-2">Exercise 13 (propositional-validity-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.13');" href="#"><i id="ex7.13" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.13');" href="#"><i id="ex7.13" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -179,7 +179,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_14/' class="p-2">Exercise 14 </a>
+        <a href='ex_14/' class="p-2">Exercise 14 (cnf-proof-exercise)</a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.14');" href="#"><i id="ex7.14" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.14');" href="#"><i id="ex7.14" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -205,7 +205,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_16/' class="p-2">Exercise 16 </a>
+        <a href='ex_16/' class="p-2">Exercise 16 (inf-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.16');" href="#"><i id="ex7.16" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.16');" href="#"><i id="ex7.16" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -309,7 +309,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_24/' class="p-2">Exercise 24 </a>
+        <a href='ex_24/' class="p-2">Exercise 24 (dnf-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.24');" href="#"><i id="ex7.24" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.24');" href="#"><i id="ex7.24" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -322,7 +322,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_25/' class="p-2">Exercise 25 </a>
+        <a href='ex_25/' class="p-2">Exercise 25 (convert-clausal-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.25');" href="#"><i id="ex7.25" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.25');" href="#"><i id="ex7.25" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -335,7 +335,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_2/' class="p-2">Exercise 26 </a>
+        <a href='ex_2/' class="p-2">Exercise 26 (convert-clausal-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.26');" href="#"><i id="ex7.26" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.26');" href="#"><i id="ex7.26" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -374,7 +374,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_29/' class="p-2">Exercise 29 </a>
+        <a href='ex_29/' class="p-2">Exercise 29 (known-literal-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.29');" href="#"><i id="ex7.29" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.29');" href="#"><i id="ex7.29" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -387,7 +387,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_30/' class="p-2">Exercise 30 </a>
+        <a href='ex_30/' class="p-2">Exercise 30 (dpll-fc-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.30');" href="#"><i id="ex7.30" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.30');" href="#"><i id="ex7.30" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -426,7 +426,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_3/' class="p-2">Exercise 33 </a>
+        <a href='ex_3/' class="p-2">Exercise 33  </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.33');" href="#"><i id="ex7.33" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.33');" href="#"><i id="ex7.33" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -439,7 +439,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_34/' class="p-2">Exercise 34 </a>
+        <a href='ex_34/' class="p-2">Exercise 34 (ss-axiom-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.34');" href="#"><i id="ex7.34" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.34');" href="#"><i id="ex7.34" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
@@ -452,7 +452,7 @@ permalink: /knowledge-logic-exercises/
 
 <div class="card">
     <div class="card-header p-2">
-        <a href='ex_35/' class="p-2">Exercise 35 </a>
+        <a href='ex_35/' class="p-2">Exercise 35 (hybrid-wumpus-exercise) </a>
         <button type="button" class="btn btn-dark float-right" onclick="bookmark('ex7.35');" href="#"><i id="ex7.35" class="fas fa-bookmark" style="color:white"></i></button>
         <button type="button" class="btn btn-dark float-right" style="margin-left:10px; margin-right:10px;" onclick="upvote('ex7.35');" href="#"><i id="ex7.35" class="fas fa-thumbs-up" style="color:white"></i></button>
     </div>
