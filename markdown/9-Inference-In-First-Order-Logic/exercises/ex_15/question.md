@@ -1,4 +1,4 @@
-[Exercise 9.15 \[standardize-failure-exercise\]](ex_15/)
+
 
 One might suppose that we can avoid the
 problem of variable conflict in unification during backward chaining by
